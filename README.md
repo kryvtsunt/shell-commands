@@ -52,3 +52,4 @@ uniq
 tokens$ ^D
 bash$
 In the above interaction, "^D" is used to indicate Ctrl+D, which sends end-of-file. The "tokens$ " prompt is optional, but is specifically recognized by the test scripts - other prompts may not work.
+
