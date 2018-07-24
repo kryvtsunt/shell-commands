@@ -1,1 +1,2 @@
-test.pl tests/* linguist-vendored
+test.pl linguist-vendored
+tests/* linguist-vendored
